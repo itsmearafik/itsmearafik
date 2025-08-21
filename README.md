@@ -11,6 +11,7 @@ I thrive on transforming raw data into compelling narratives that drive informed
 -  Product Analytics
 -  Customer Experience Analyst
 -  Operations Analyst.
+-  Analystic Engineering.
 
 
 ## 👀 What am I looking for?
@@ -27,8 +28,8 @@ I thrive on transforming raw data into compelling narratives that drive informed
 - Spreadsheets
 
 ## 📫 You can connect with me on: 
-[Linkedin]([https://linkedin.com/in/james-oladejo-2000/](https://www.linkedin.com/in/abdulrafikal-hassan/)) or
-[Twitter]([https://twitter.com/jamisi_](https://x.com/home))
+[Linkedin](https://www.linkedin.com/in/abdulrafikal-hassan/) or
+[Twitter](https://x.com/home)
 
 
 <!--

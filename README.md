@@ -1,5 +1,5 @@
 # Hi there 👋 My name is [Abdul Rafik Al-hassan](https://www.linkedin.com/in/abdulrafikal-hassan/)
-I'm a data-driven problem solver, passionate about helping startups and SMEs scale, optimize operations and tap into opportunities using data. With a keen eye for detail and a drive for creating impactful business solutions, I'm proficient in SQL,Microsoft Excel, MIxpanel, Metabase, Microsoft Power BI, Looker Studio, and Python. 
+I'm a data-driven problem solver, passionate about helping startups and SMEs scale, optimize operations and tap into opportunities using data. With a keen eye for detail and a drive for creating impactful business solutions, I'm proficient in SQL,Microsoft Excel, Microsoft Power BI, and Python. 
 
 I thrive on transforming raw data into compelling narratives that drive informed decision-making. Eager to contribute to a dynamic team and explore new challenges in the world of Analytics.
 
@@ -22,7 +22,6 @@ I thrive on transforming raw data into compelling narratives that drive informed
 - Microsoft Excel 
 - Power BI
 - SQL (Structured Query Language)
-- Tableau
 - Python Programming Language
 - Git & GitHub 
 - Spreadsheets

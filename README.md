@@ -28,7 +28,8 @@ I thrive on transforming raw data into compelling narratives that drive informed
 
 ## 📫 You can connect with me on: 
 [Linkedin](https://www.linkedin.com/in/abdulrafikal-hassan/) or
-[Twitter](https://x.com/home)
+[Twitter](https://x.com/home) or
+[Schedule a meeting ](https://calendly.com/arafikalhassan369/15-min-revenue-analyst-intro-call)
 
 
 <!--
